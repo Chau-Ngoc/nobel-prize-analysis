@@ -1,0 +1,14 @@
+name: data-science-web
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - jupyter
+  - seaborn
+  - scikit-learn
+  - plotly
+  - flask
+  - pandas
+  - scikit-learn-intelex
+prefix: C:\Users\PC\miniconda3\envs\data-science-web
