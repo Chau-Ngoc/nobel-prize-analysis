@@ -11,4 +11,5 @@ dependencies:
   - flask
   - pandas
   - scikit-learn-intelex
+  - python-kaleido
 prefix: C:\Users\PC\miniconda3\envs\data-science-web
