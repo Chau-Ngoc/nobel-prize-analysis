@@ -10,3 +10,5 @@ In this notebook, we are going to investigate:
 * Visualize the trends over time.
 * Create a choropleth map to visualize countries with the most prizes.
 * Finally, visualize the concentration of awarded organization.
+
+**For viewing the notebook with plotly plots**, go to [nbviewer](https://nbviewer.org/github/Chau-Ngoc/nobel-prize-analysis/blob/main/nobel_prize_analysis.ipynb)
