@@ -9,6 +9,6 @@ In this notebook, we are going to investigate:
 * And for each category, how are the awards spreaded between laureate genders?
 * Visualize the trends over time.
 * Create a choropleth map to visualize countries with the most prizes.
-* Finally, visualize the concentration of awarded organization.
+* Finally, create a sunburst chart to visualize the concentration of awarded organizations.
 
 **For viewing the notebook with plotly plots**, go to [nbviewer](https://nbviewer.org/github/Chau-Ngoc/nobel-prize-analysis/blob/main/nobel_prize_analysis.ipynb)
